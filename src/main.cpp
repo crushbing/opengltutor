@@ -24,7 +24,7 @@ int main() {
         glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
     }
-    "asdad";
+
     // enable 4x MSAA
     glfwWindowHint(GLFW_SAMPLES, 4);
 
